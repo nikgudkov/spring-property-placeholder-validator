@@ -1,0 +1,1 @@
+# spring-propery-placeholder-validator
